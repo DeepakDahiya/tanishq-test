@@ -37,7 +37,7 @@ import java.nio.charset.StandardCharsets;
 
 public class BrowserExpressCommentsUtil {
     private static final String TAG = "Claim_Username_Browser_Express";
-    private static final String CLAIM_USERNAME_URL = "https://api.browser.express/v1/auth/generate-username";
+    private static final String CLAIM_USERNAME_URL = "";
 
     private BrowserExpressGenerateUsernameBottomSheetFragment mBottomSheetDialog;
 
