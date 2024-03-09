@@ -42,7 +42,7 @@ import java.nio.charset.StandardCharsets;
 
 public class BrowserExpressGetCommentsUtil {
     private static final String TAG = "Get_Comments_Browser_Express";
-    private static final String GET_COMMENTS_URL = "https://api.browser.express/v1/comment";
+    private static final String GET_COMMENTS_URL = "";
 
     public interface GetCommentsCallback {
         void getCommentsSuccessful(List<Comment> comments);
