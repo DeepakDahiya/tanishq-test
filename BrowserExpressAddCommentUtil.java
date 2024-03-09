@@ -37,7 +37,7 @@ import java.nio.charset.StandardCharsets;
 
 public class BrowserExpressAddCommentUtil {
     private static final String TAG = "Add_Comment_Browser_Express";
-    private static final String ADD_COMMENT_URL = "https://api.browser.express/v1/comment";
+    private static final String ADD_COMMENT_URL = "";
 
     public interface AddCommentCallback {
         void addCommentSuccessful(Comment comment);
